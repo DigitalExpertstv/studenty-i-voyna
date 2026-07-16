@@ -142,6 +142,13 @@
 - [Новая газета Европа — «Прямая наружка на фронт» (реклама службы повсюду, 53 000 объявлений во ВК)](https://novayagazeta.eu/articles/2023/04/18/priamaia-naruzhka-na-front)
 - [Российская пропаганда в системе образования («Разговоры о важном», НВП)](https://ru.wikipedia.org/wiki/Российская_пропаганда_в_системе_образования)
 
+## «Успокоение — сигнал опасности»: цитаты (см. [отдельный документ](uspokoenie-signal-opasnosti.md))
+- [Александр Солженицын — «Жить не по лжи» (полный текст)](https://rushist.com/index.php/rus-literature/2954-solzhenitsyn-zhit-ne-po-lzhi-polnyj-tekst) · [Российская газета](https://rg.ru/2008/08/07/solzhenicyn-statya.html)
+- [Владимир Буковский — цитаты (Soviet History Lessons)](https://www.soviethistorylessons.com/vladimir-bukovsky-quotes-ru)
+- [Ханна Арендт, «Истоки тоталитаризма» — цитаты (Goodreads)](https://www.goodreads.com/work/quotes/23497-the-origins-of-totalitarianism) · [Wikipedia](https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism)
+- [Джордж Оруэлл, «1984» (Wikipedia)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+- [«Никогда ничему не верь, пока это официально не опровергнут» — разбор происхождения (Quote Investigator)](https://quoteinvestigator.com/2015/08/07/believe/)
+
 ## Запрет на выезд и реестр повесток (ловушка невыезда)
 - [The Moscow Times — призывники массово получают запрет на выезд, 04.03.2026](https://ru.themoscowtimes.com/2026/03/04/prizivniki-nachali-massovo-poluchat-zapret-na-viezd-iz-rossii-za-neyavku-v-voenkomat-a188829)
 - [Meduza — «пакетные» ограничения через реестр](https://meduza.io/news/2026/03/03/v-rossii-nachali-nakladyvat-paketnye-ogranicheniya-na-prizyvnikov-cherez-reestr-povestok-eto-ne-tolko-zapret-na-vyezd-iz-strany)

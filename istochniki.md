@@ -88,6 +88,7 @@
 - [re-Russia — «Хроники разорения» (утечка учёных, деградация науки)](https://re-russia.net/review/462/)
 - [Новая газета — Дмитрий Дубровский, «Разорванная академия»](https://novayagazeta.ru/articles/2024/11/07/razorvannaia-akademiia)
 - [Forbes — будущее российской науки, изоляция и утечка мозгов](https://www.forbes.ru/forbeslife/459339-izolacia-ot-mirovogo-soobsestva-i-utecka-mozgov-kakoe-budusee-zdet-rossijskuu-nauku)
+- [The Moscow Times — «утечка мозгов» установила рекорд за 25 лет (исследование Андрея Ловакова), 27.05.2025](https://ru.themoscowtimes.com/2025/05/27/skorost-utechki-mozgov-iz-rossii-dostigla-rekorda-za-25-let-a164428)
 - [Euronews — вербовка студентов как «затыкание дыр» в армии](https://ru.euronews.com/2026/03/06/rossijskih-studentov-zovut-na-vojnu-eto-zatykanie-dyr-v-armii-govoryat-pravozashitniki)
 - [Радио Свобода — как руководители вузов отправляют студентов на войну](https://www.svoboda.org/a/kak-rukovoditeli-vuzov-i-uchilisch-otpravlyayut-studentov-na-voynu/33689445.html)
 
@@ -107,6 +108,7 @@
 ## Государство: «образованных слишком много» + отсечение в школе
 - [The Moscow Times — Фальков: в России «слишком много высшего», 18.06.2026](https://ru.themoscowtimes.com/2026/06/18/eto-neest-horosho-vpravitelstve-zayavili-chto-vrossii-stalo-slishkom-mnogo-lyudei-svisshim-obrazovaniem-a198562)
 - [Собака.ru — Фальков о «тотальном высшем образовании»](https://www.sobaka.ru/city/science/216950)
+- [РБК — научрук ВШЭ Ярослав Кузьминов о риске «раздувания» числа бюджетных мест, 18.02.2026](https://www.rbc.ru/society/18/02/2026/6995c1209a79474ba8abf926)
 - [Эхо Севера — «Сильно умный? Не нужен»](https://www.echosevera.ru/2026/06/19/6a34fa1d02188aba9f05de67.html)
 - [Российская газета — текст ФЗ № 114-ФЗ от 23.05.2025 (предельное число платных мест)](https://rg.ru/documents/2025/05/30/fz-114.html)
 - [Кремль — об изменениях в закон об образовании (114-ФЗ)](http://www.kremlin.ru/acts/news/77005)

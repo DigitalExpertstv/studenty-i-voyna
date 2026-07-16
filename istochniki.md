@@ -113,3 +113,5 @@
 - Север.Реалии — «Гребут всех подряд» (на сборном пункте отбирают телефон/паспорт, не пускают к адвокату): https://www.severreal.org/a/grebut-vseh-podryad-v-rossii-idut-oblavy-na-prizyvnikov-/33215032.html
 - Meduza — «Сопротивляться произволу» (жалобы и суды игнорируют, ночью вывозят в часть): https://meduza.io/feature/2024/05/29/soprotivlyatsya-proizvolu-edinstvennoe-chto-ostaetsya
 - The Moscow Times — ФСБ завела дело на блогера Станислава Морозова, снимавшего облавы (огласка как мишень), 02.07.2026: https://ru.themoscowtimes.com/2026/07/02/fsb-zaderzhala-blogera-rasskazavshego-o-prinuditelnoi-mobilizatsii-v-penze-a199864
+- Meduza — в московском метро возобновились облавы на призывников (осень 2025): https://meduza.io/news/2025/10/20/v-moskovskom-metro-nachalis-oblavy-na-prizyvnikov
+- МСК1 — как система распознавания лиц «Сфера» ловит призывников в метро: https://msk1.ru/text/gorod/2025/10/30/76086480/

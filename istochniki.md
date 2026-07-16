@@ -91,6 +91,19 @@
 - [Euronews — вербовка студентов как «затыкание дыр» в армии](https://ru.euronews.com/2026/03/06/rossijskih-studentov-zovut-na-vojnu-eto-zatykanie-dyr-v-armii-govoryat-pravozashitniki)
 - [Радио Свобода — как руководители вузов отправляют студентов на войну](https://www.svoboda.org/a/kak-rukovoditeli-vuzov-i-uchilisch-otpravlyayut-studentov-na-voynu/33689445.html)
 
+## Борьба с «думающими» специальностями (экономика, право, политология)
+- [Lenta.ru — вузы сократят число мест для экономистов, 25.05.2026](https://lenta.ru/news/2026/05/25/rossiyskie-vuzy-sokratyat-chislo-mest-dlya-ekonomistov/)
+- [Парламентская газета — платный приём сократили для юристов, управленцев и экономистов](https://www.pnp.ru/social/postuplenie-v-vuzy-na-platnoy-osnove-sokratili-dlya-yuristov-upravlencev-i-ekonomistov.html)
+- [Groza — Екатерина Шульман: «Нравится вам вуз или вас отчислить?» (запугивание, «запуганные люди глупеют»)](https://www.groza.media/posts/schulmann)
+- [Meduza — Рособрнадзор приостановил лицензию «Шанинки», 23.12.2025](https://meduza.io/news/2025/12/23/shaninke-priostanovili-litsenziyu)
+- [РБК — Рособрнадзор полностью приостановил лицензию «Шанинки»](https://www.rbc.ru/society/23/12/2025/6949d7ea9a79476a90c46d61)
+- [Forbes — «Шанинка» проиграла суд о восстановлении лицензии](https://www.forbes.ru/society/561789-saninka-proigrala-sud-o-vosstanovlenii-licenzii-na-obrazovatel-nuu-deatel-nost)
+- [Радио Свобода — «Сам себя уволил»: ВШЭ прощается с «неправильными» преподавателями](https://www.svoboda.org/a/29999440.html)
+- [Коммерсантъ — «Вышку заменили увольнениями»](https://www.kommersant.ru/doc/4474299)
+- [РБК — Генпрокуратура признала «Свободный университет» нежелательным, 31.03.2023](https://www.rbc.ru/politics/31/03/2023/6426a1f39a79473777213b14)
+- [ОВД-Инфо — «Свободный университет» признали нежелательной организацией](https://ovd.info/express-news/2023/03/31/svobodnyy-universitet-priznali-nezhelatelnoy-organizaciey)
+- [РИА Новости — уход Сергея Гуриева из РЭШ](https://ria.ru/20130529/940140936.html)
+
 ## Государство: «образованных слишком много» + отсечение в школе
 - [The Moscow Times — Фальков: в России «слишком много высшего», 18.06.2026](https://ru.themoscowtimes.com/2026/06/18/eto-neest-horosho-vpravitelstve-zayavili-chto-vrossii-stalo-slishkom-mnogo-lyudei-svisshim-obrazovaniem-a198562)
 - [Собака.ru — Фальков о «тотальном высшем образовании»](https://www.sobaka.ru/city/science/216950)

@@ -31,6 +31,21 @@
 - The Moscow Times (EN) — квоты губернатора Рязанской области, 31.03.2026: https://www.themoscowtimes.com/2026/03/31/ryazan-governor-orders-businesses-to-set-military-recruitment-quotas-a92390
 - Радио Свобода — работодателей заставляют вербовать под угрозой штрафов: https://www.svoboda.org/a/rossiyskih-rabotodateley-zastavlyayut-verbovat-soldat-na-voynu-i-prinimat-v-shtat-veteranov-svo-/33607183.html
 
+## Вербовка как бизнес: обзвоны, откаты, коррупция военкоматов
+- Новая газета — «Гепатит С берём. Проблемы решаем» (сетевой маркетинг и холодные звонки): https://novayagazeta.ru/articles/2024/10/23/gepatit-s-berem-problemy-reshaem
+- 72.ru — обзвон с «кодовым словом» (Тюмень): https://72.ru/text/gorod/2026/02/13/76261039/
+- Школа призывника — москвичей массово обзванивают: https://netprizyvu.ru/news/moskvichey-massovo-obzvanivayut-dlya-zaklyucheniya-kontraktov-na-voennuyu-sluzhbu
+- RTVI — «Сколько стоит друг» (за приведённого до 574 тыс., 30+ регионов): https://rtvi.com/news/skolko-stoit-drug-v-kakih-regionah-platyat-bolshe-za-privlechenie-na-svo/
+- Вёрстка — как россияне зарабатывают, отправляя друг друга на войну: https://verstka.media/kak-rossiyane-zarabatyvayut-otpravlyaya-drug-druga-na-voinu
+- Радио Свобода — «Трупоеды»: как посредники зарабатывают на вербовке: https://www.svoboda.org/a/trupoedy-kak-posredniki-zarabatyvayut-na-verbovke-kontraktnikov/33049500.html
+- Вёрстка — полицейским платят 10–100 тыс. за отправленного вместо суда: https://verstka.media/kak-policeiskie-otpravlyayut-zaderzhannyh-na-voinu-vmesto-suda
+- Фонтанка — сотрудник военкомата Красносельского района СПб арестован за взятки: https://www.fontanka.ru/2025/02/20/75131366/
+- Meduza — двоих сотрудников военкомата СПб задержали за фиктивные контракты: https://meduza.io/news/2024/11/15/dvoih-sotrudnikov-peterburgskogo-voenkomata-zaderzhali-za-fiktivnye-kontrakty-s-minoborony
+- Телеканал «Санкт-Петербург» — сотрудник военкомата обманул контрактников на 6 млн (4 года колонии): https://tvspb.ru/news/2026/01/15/sotrudnik-voenkomata-vymanivshij-6-mln-rublej-u-budushhih-kontraktnikov-poluchil-chetyre-goda-kolonii
+
+## Воинский учёт и «резидентство» (миф «не призовут, пока не резидент»)
+- Комитет солдатских матерей — учёт по фактическому месту проживания, независимо от прописки: https://soldiersmothers.ru/news/voinskii-uchet-po-mestu-fakticheskogo-prozhivaniya
+
 ## Двойное гражданство / второй паспорт
 - Т—Ж — мобилизация при двойном/втором гражданстве: https://t-j.ru/news/mobilization-for-foreigner/
 - РБК — Израиль предупредил граждан с российским паспортом о мобилизации: https://www.rbc.ru/rbcfreenews/63370a759a7947fc74ce5bd2

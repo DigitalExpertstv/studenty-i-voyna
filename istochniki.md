@@ -125,6 +125,8 @@
 - [«Силовики силой забрали студента в военкомат прямо из квартиры» — Телеканал Дождь](https://www.youtube.com/watch?v=eOupagW70BI)
 - [«Облавы на мужчин… Новая волна мобилизации?» — Свердлин («Идите лесом»), Ходорковский LIVE](https://www.youtube.com/watch?v=Rvv2gIZHhIY)
 - [«Массовые жалобы российских подростков: почему им не дают окончить школу» — Настоящее Время](https://www.youtube.com/watch?v=T_i2BRRUN-I)
+- [«Хватают на улице, в транспорте, у подъездов. Снова начались облавы на призывников» — Телеканал Дождь](https://www.youtube.com/watch?v=PTPXWMcugzs)
+- [«В военкомате пытали студента» — Ходорковский LIVE](https://www.youtube.com/watch?v=uflCJkpnquE)
 
 ## Нехватка людей и кризис набора (иллюзия «я им не нужен»)
 - [The Bell — «Набор контрактников на минимуме за три года»](https://thebell.io/nabor-kontraktnikov-vrossii-naminimume-zatri-goda-nezavisimyy-analiz)

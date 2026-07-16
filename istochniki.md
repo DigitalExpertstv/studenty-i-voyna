@@ -103,7 +103,11 @@
 - [Коммерсантъ — «Вышку заменили увольнениями»](https://www.kommersant.ru/doc/4474299)
 - [РБК — Генпрокуратура признала «Свободный университет» нежелательным, 31.03.2023](https://www.rbc.ru/politics/31/03/2023/6426a1f39a79473777213b14)
 - [ОВД-Инфо — «Свободный университет» признали нежелательной организацией](https://ovd.info/express-news/2023/03/31/svobodnyy-universitet-priznali-nezhelatelnoy-organizaciey)
-- [РИА Новости — уход Сергея Гуриева из РЭШ](https://ria.ru/20130529/940140936.html)
+- **Питер — Европейский университет (лишение лицензии):** [Meduza — лицензию отозвали (20.03.2017)](https://meduza.io/news/2017/03/20/evropeyskiy-universitet-v-sankt-peterburge-lishili-litsenzii) · [Meduza — объяснение (12.12.2016)](https://meduza.io/feature/2016/12/12/evropeyskiy-universitet-v-sankt-peterburge-ostavili-bez-litsenzii-chto-proishodit) · [хроника ЕУСПб](https://eusp.org/news/litsenziya-khronika)
+- **«Казус Гуриева» (РЭШ, Москва):** [РИА — «лучше в Париже, чем в Краснокаменске»](https://ria.ru/20130529/940059699.html) · [Ведомости — совет директоров принял отставку](https://www.vedomosti.ru/politics/articles/2013/05/30/sovet_direktorov_resh_prinyal_otstavku_gurieva) · [Газета.Ru — давление по «делу ЮКОСа»](https://www.gazeta.ru/politics/2013/05/29_a_5361449.shtml)
+- **Экономисты в эмиграции:** [Ведомости — отъезд Константина Сонина (ВШЭ → Чикаго)](https://www.vedomosti.ru/economics/news/2015/05/20/izvestnii-ekonomist-professor-vshe-konstantin-sonin-uezzhaet-iz-rossii1) · [Forbes — Сонин объявил об отъезде](https://www.forbes.ru/news/289013-ekonomist-konstantin-sonin-obyavil-ob-otezde-iz-rossii)
+- [Новая газета Европа — 150+ экономистов, политологов и социологов уехали с начала войны (04.07.2024)](https://novayagazeta.eu/articles/2024/07/04/obshchestvo-ne-prinimaet)
+- [Кравцов, Сергей Сергеевич — Википедия (глава Рособрнадзора 2013–2020, ныне министр просвещения)](https://ru.wikipedia.org/wiki/Кравцов,_Сергей_Сергеевич)
 
 ## Государство: «образованных слишком много» + отсечение в школе
 - [The Moscow Times — Фальков: в России «слишком много высшего», 18.06.2026](https://ru.themoscowtimes.com/2026/06/18/eto-neest-horosho-vpravitelstve-zayavili-chto-vrossii-stalo-slishkom-mnogo-lyudei-svisshim-obrazovaniem-a198562)

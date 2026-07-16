@@ -122,8 +122,8 @@
 - [Мел — почему детей отказываются зачислять в 10-е классы](https://mel.fm/ucheba/shkola/2150473-eto-narusheniye-zakona-pochemu-detey-snova-otkazyvayutsya-zachislyat-v-10-e-klassy-i-predlagayut-im-)
 
 ## Видео
-- [«Силой забрали студента в военкомат прямо из квартиры»](https://www.youtube.com/shorts/eOupagW70BI)
-- [Григорий Свердлин («Идите лесом») про облавы на мужчин](https://www.youtube.com/watch?v=Rvv2gIZHhIY)
+- [«Силовики силой забрали студента в военкомат прямо из квартиры» — Телеканал Дождь](https://www.youtube.com/watch?v=eOupagW70BI)
+- [«Облавы на мужчин… Новая волна мобилизации?» — Свердлин («Идите лесом»), Ходорковский LIVE](https://www.youtube.com/watch?v=Rvv2gIZHhIY)
 
 ## Нехватка людей и кризис набора (иллюзия «я им не нужен»)
 - [The Bell — «Набор контрактников на минимуме за три года»](https://thebell.io/nabor-kontraktnikov-vrossii-naminimume-zatri-goda-nezavisimyy-analiz)

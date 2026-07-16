@@ -77,6 +77,7 @@
 - База «Россия 200»: https://200.zona.media/
 - Медиазона (EN), 09.05.2026 (~352 000): https://en.zona.media/article/2026/05/09/losses
 - Meduza — 200 погибших ≤18 лет: https://meduza.io/news/2026/06/12/bi-bi-si-na-voyne-s-ukrainoy-pogibli-200-rossiyan-kotorym-bylo-ne-bolshe-18-let
+- Радио Свобода — Би-би-си и «Медиазона» подтвердили гибель 225 000+ военных (потери засекречены, поимённый счёт — минимум): https://www.svoboda.org/a/bi-bi-si-i-mediazona-podtverdili-gibelj-boljshe-225-tysyach-voennyh/33773446.html
 
 ## Нехватка людей и кризис набора (иллюзия «я им не нужен»)
 - The Bell — «Набор контрактников на минимуме за три года»: https://thebell.io/nabor-kontraktnikov-vrossii-naminimume-zatri-goda-nezavisimyy-analiz

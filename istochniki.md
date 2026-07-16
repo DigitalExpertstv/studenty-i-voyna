@@ -116,3 +116,6 @@
 - The Moscow Times — ФСБ завела дело на блогера Станислава Морозова, снимавшего облавы (огласка как мишень), 02.07.2026: https://ru.themoscowtimes.com/2026/07/02/fsb-zaderzhala-blogera-rasskazavshego-o-prinuditelnoi-mobilizatsii-v-penze-a199864
 - Meduza — в московском метро возобновились облавы на призывников (осень 2025): https://meduza.io/news/2025/10/20/v-moskovskom-metro-nachalis-oblavy-na-prizyvnikov
 - МСК1 — как система распознавания лиц «Сфера» ловит призывников в метро: https://msk1.ru/text/gorod/2025/10/30/76086480/
+- Активатика — облавы в Москве, список станций метро: https://activatica.org/content/e6e9ebc2-cdc3-4bbb-be6f-bbe93eb4e5c1/v-moskve-idut-oblavy-na-prizyvnikov
+- Мемориал — коллективное обращение правозащитников об облавах в Москве (осень 2025, 60+ доставленных): https://memorialcenter.org/ru/news/oblavy-na-prizyvnikov-v-moskve
+- АиФ Петербург — призывников караулят у метро: https://spb.aif.ru/society/677878

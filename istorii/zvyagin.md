@@ -16,4 +16,4 @@
 2. **Обещание «тыла» держится ровно до тех пор, пока не понадобится пехота.** «Год водителем» закончился переводом в штурмовики. Контракт не защищает от перевода в любой род войск.
 
 ## Источники
-- Радио Свобода — «Обещали тыл, отправили в штурм. Как обманывают студентов, подписавших контракт с Минобороны»: https://www.svoboda.org/a/obeschali-tyl-otpravili-v-shturm-kak-obmanyvayut-studentov-podpisavshih-kontrakt-s-minoborony/33760397.html
+- [Радио Свобода — «Обещали тыл, отправили в штурм. Как обманывают студентов, подписавших контракт с Минобороны»](https://www.svoboda.org/a/obeschali-tyl-otpravili-v-shturm-kak-obmanyvayut-studentov-podpisavshih-kontrakt-s-minoborony/33760397.html)

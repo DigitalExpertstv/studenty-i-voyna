@@ -10,4 +10,4 @@
 Это и есть **механизм «академическая задолженность как рычаг»** в чистом виде: учебному заведению нужно закрыть план по вербовке, и «хвосты» превращаются в инструмент давления. Формально выбор «добровольный». По сути — ультиматум 19-летнему студенту: либо ты ломаешь себе учёбу и будущее, либо идёшь на фронт.
 
 ## Источники
-- Радио Свобода — «Обещали тыл, отправили в штурм»: https://www.svoboda.org/a/obeschali-tyl-otpravili-v-shturm-kak-obmanyvayut-studentov-podpisavshih-kontrakt-s-minoborony/33760397.html
+- [Радио Свобода — «Обещали тыл, отправили в штурм»](https://www.svoboda.org/a/obeschali-tyl-otpravili-v-shturm-kak-obmanyvayut-studentov-podpisavshih-kontrakt-s-minoborony/33760397.html)

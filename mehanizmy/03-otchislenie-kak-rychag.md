@@ -8,11 +8,11 @@
 - отчисление, которое лишает студенческой отсрочки и ведёт прямо к призыву/мобилизации.
 
 Механизм подтверждён внутренней инструкцией ВШЭ (скриншот получен Радио Свобода) и задокументирован в РЭУ им. Плеханова, ВГЛТУ им. Морозова, Казанском инновационном университете, МИРЭА, ДВФУ, Пермском ГМУ.
-- Новая газета Европа — «И легко выдадут диплом, и все долги закроют»: https://novayagazeta.eu/articles/2026/03/20/i-legko-vydadut-diplom-i-vse-dolgi-zakroiut
-- Новая газета — «На фронт за хвост»: https://novayagazeta.ru/articles/2026/04/30/na-front-za-khvost
-- iStories (EN): https://istories.media/en/stories/2026/03/03/students-recruited-to-war-in-universities-and-colleges-all-over-russia/
-- Kyiv Independent: https://kyivindependent.com/the-kremlin-students-and-war/
-- The Moscow Times: https://www.themoscowtimes.com/2026/03/23/are-you-all-cowards-russian-universities-pressure-students-to-fight-in-ukraine-a92307
+- [Новая газета Европа — «И легко выдадут диплом, и все долги закроют»](https://novayagazeta.eu/articles/2026/03/20/i-legko-vydadut-diplom-i-vse-dolgi-zakroiut)
+- [Новая газета — «На фронт за хвост»](https://novayagazeta.ru/articles/2026/04/30/na-front-za-khvost)
+- [iStories (EN)](https://istories.media/en/stories/2026/03/03/students-recruited-to-war-in-universities-and-colleges-all-over-russia/)
+- [Kyiv Independent](https://kyivindependent.com/the-kremlin-students-and-war/)
+- [The Moscow Times](https://www.themoscowtimes.com/2026/03/23/are-you-all-cowards-russian-universities-pressure-students-to-fight-in-ukraine-a92307)
 
 ## Вузы сами создают условия для отчисления
 Чтобы «хвост» быстрее превращался в отчисление, правила меняют:

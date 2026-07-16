@@ -12,5 +12,5 @@
 Прямое, отдельное от бурятского кейса подтверждение одного и того же механизма: «обучили на БПЛА → бросили в пехотный штурм». Два разных региона (Брянск, Бурятия), один и тот же исход за считанные месяцы 2026 года.
 
 ## Источники
-- Meduza (пересказ расследования Би-би-си), 24.06.2026: https://meduza.io/feature/2026/06/24/rossiyskie-studenty-idut-na-voynu-operatorami-dronov-i-pochti-srazu-zhe-pogibayut
-- iStories / Важные истории, 01.07.2026: https://istories.media/stories/2026/07/01/kak-studentov-zastavlyayut-podpisivat-kontrakt-v-bpla-voiska/
+- [Meduza (пересказ расследования Би-би-си), 24.06.2026](https://meduza.io/feature/2026/06/24/rossiyskie-studenty-idut-na-voynu-operatorami-dronov-i-pochti-srazu-zhe-pogibayut)
+- [iStories / Важные истории, 01.07.2026](https://istories.media/stories/2026/07/01/kak-studentov-zastavlyayut-podpisivat-kontrakt-v-bpla-voiska/)

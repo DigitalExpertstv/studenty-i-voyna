@@ -15,8 +15,8 @@
 Это **первый публично задокументированный случай** гибели студента после начала кампании вербовки учащихся именно в дроновые войска. Он показывает главное: запись «оператор БПЛА» в контракте ничего не гарантирует. Профотбор в дроны проводят **после** подписания; не прошедших переводят в пехоту и штурм. «Техническая роль» — это приманка, а не защита.
 
 ## Источники
-- Meduza (пересказ расследования Би-би-си), 24.06.2026 — «Российские студенты идут на войну операторами дронов — и почти сразу погибают»: https://meduza.io/feature/2026/06/24/rossiyskie-studenty-idut-na-voynu-operatorami-dronov-i-pochti-srazu-zhe-pogibayut
-- Радио Свобода — «Обещали тыл, отправили в штурм»: https://www.svoboda.org/a/obeschali-tyl-otpravili-v-shturm-kak-obmanyvayut-studentov-podpisavshih-kontrakt-s-minoborony/33760397.html
-- Медиазона, 12.05.2026: https://zona.media/news/2026/05/12/averin
-- Люди Байкала / Baikal-journal, 12.05.2026: https://baikal-journal.ru/2026/05/12/pod-luganskom-pogib-23-letnij-student-zaverbovannyj-v-operatory-bpla-iz-tehnikuma-v-buryatii/
-- iStories / Важные истории, 01.07.2026: https://istories.media/stories/2026/07/01/kak-studentov-zastavlyayut-podpisivat-kontrakt-v-bpla-voiska/
+- [Meduza (пересказ расследования Би-би-си), 24.06.2026 — «Российские студенты идут на войну операторами дронов — и почти сразу погибают»](https://meduza.io/feature/2026/06/24/rossiyskie-studenty-idut-na-voynu-operatorami-dronov-i-pochti-srazu-zhe-pogibayut)
+- [Радио Свобода — «Обещали тыл, отправили в штурм»](https://www.svoboda.org/a/obeschali-tyl-otpravili-v-shturm-kak-obmanyvayut-studentov-podpisavshih-kontrakt-s-minoborony/33760397.html)
+- [Медиазона, 12.05.2026](https://zona.media/news/2026/05/12/averin)
+- [Люди Байкала / Baikal-journal, 12.05.2026](https://baikal-journal.ru/2026/05/12/pod-luganskom-pogib-23-letnij-student-zaverbovannyj-v-operatory-bpla-iz-tehnikuma-v-buryatii/)
+- [iStories / Важные истории, 01.07.2026](https://istories.media/stories/2026/07/01/kak-studentov-zastavlyayut-podpisivat-kontrakt-v-bpla-voiska/)

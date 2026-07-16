@@ -15,4 +15,4 @@
 Разрушает саму логику «выберу техническую специальность — буду в тылу». На современной войне оператор FPV-дрона сидит в паре километров от линии соприкосновения и является приоритетной целью. «Безопасной» роли на этой войне нет — есть только разные способы погибнуть.
 
 ## Источники
-- Meduza (пересказ расследования Русской службы Би-би-си), 24.06.2026: https://meduza.io/feature/2026/06/24/rossiyskie-studenty-idut-na-voynu-operatorami-dronov-i-pochti-srazu-zhe-pogibayut
+- [Meduza (пересказ расследования Русской службы Би-би-си), 24.06.2026](https://meduza.io/feature/2026/06/24/rossiyskie-studenty-idut-na-voynu-operatorami-dronov-i-pochti-srazu-zhe-pogibayut)

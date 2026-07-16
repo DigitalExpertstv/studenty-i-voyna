@@ -4,19 +4,19 @@
 
 ## План «не менее 2% студентов» — от министра
 В начале 2026 года министр науки и высшего образования **Валерий Фальков** на встрече с ректорами крупнейших вузов поставил требование: контракт с Минобороны должны заключить **не менее 2% студентов** — «каждый пятидесятый».
-- DOXA: https://doxa.team/news/2026-04-01-students-war
-- The Insider: https://theins.ru/news/290956
+- [DOXA](https://doxa.team/news/2026-04-01-students-war)
+- [The Insider](https://theins.ru/news/290956)
 
 По оценке The Insider, если план выполнят только вузы — фронт пополнится минимум на **44 000** человек; с учётом техникумов и колледжей — до **76 000**.
 
 ## Конкретные квоты конкретным вузам
 - **РГГУ** — план 200 студентов; **ДВФУ** (Дальневосточный федеральный) — 32; **Новосибирский педагогический** — 109 (DOXA).
 - **ДВФУ**: внутренние документы, опубликованные экс-советницей ректора Мариной Бариновой, показывают требование «поставить» **32 студента и 267 мужчин** на контракты Минобороны. В феврале планировали «завербовать» 32 человека.
-  - Медиазона, 25.02.2026: https://zona.media/news/2026/02/25/dvfu
-  - Радио Свобода — «На войну по квоте»: https://www.svoboda.org/a/na-voynu-po-kvote/33688821.html
+  - [Медиазона, 25.02.2026](https://zona.media/news/2026/02/25/dvfu)
+  - [Радио Свобода — «На войну по квоте»](https://www.svoboda.org/a/na-voynu-po-kvote/33688821.html)
 - **РЭУ им. Плеханова**: старостам групп спущена разнарядка — приводить **по 2 студента в месяц** на подписание контракта (внутреннее письмо от 6 февраля).
-  - iStories: https://istories.media/stories/2026/03/03/predlagaem-smenit-obstanovku-studentov-verbuyut-na-voinu-bolee-chem-v-100-uchebnikh-zavedeniyakh-po-vsei-rossii/
-  - T-invariant: https://t-invariant.org/2026/02/new-mobilization-begins-with-students-universities-and-colleges-lure-them-to-the-front-with-cash-lighter-service-and-threats-of-expulsion/
+  - [iStories](https://istories.media/stories/2026/03/03/predlagaem-smenit-obstanovku-studentov-verbuyut-na-voinu-bolee-chem-v-100-uchebnikh-zavedeniyakh-po-vsei-rossii/)
+  - [T-invariant](https://t-invariant.org/2026/02/new-mobilization-begins-with-students-universities-and-colleges-lure-them-to-the-front-with-cash-lighter-service-and-threats-of-expulsion/)
 
 ## Масштаб: сотни учебных заведений по всей стране
 Независимые издания насчитали агитацию и вербовку студентов:

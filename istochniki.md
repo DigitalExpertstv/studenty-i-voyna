@@ -62,3 +62,24 @@
 - База «Россия 200»: https://200.zona.media/
 - Медиазона (EN), 09.05.2026 (~352 000): https://en.zona.media/article/2026/05/09/losses
 - Meduza — 200 погибших ≤18 лет: https://meduza.io/news/2026/06/12/bi-bi-si-na-voyne-s-ukrainoy-pogibli-200-rossiyan-kotorym-bylo-ne-bolshe-18-let
+
+## Нехватка людей и кризис набора (иллюзия «я им не нужен»)
+- The Bell — «Набор контрактников на минимуме за три года»: https://thebell.io/nabor-kontraktnikov-vrossii-naminimume-zatri-goda-nezavisimyy-analiz
+- iStories — «Российские потери растут, набор контрактников падает»: https://istories.media/stories/2026/02/26/rossiiskie-poteri-rastut-nabor-kontraktnikov-padaet-zhdat-li-mobilizatsii/
+- Радио Свобода — «Математика войны»: https://www.svoboda.org/a/matematika-voyny-rossiya-teryaet-soldat-bystree-chem-verbuet/33756096.html
+- re-Russia — «Контракт сломался» (системный сбой модели найма): https://re-russia.net/analytics/0427/
+- Carnegie — Does Russia Have Enough Soldiers: https://carnegieendowment.org/russia-eurasia/politika/2026/02/russia-internal-resources-war
+
+## Эксперт: как система перемалывает даже «умных» (иллюзия «я не такой»)
+- Григорий Юдин (социолог) — «Война навсегда» (Москвич Mag): https://moskvichmag.ru/lyudi/nikakuyu-iz-nyneshnih-vojn-nelzya-vyigrat-eto-vojna-navsegda-sotsiolog-grigorij-yudin/
+- Григорий Юдин об атомизации (Meduza): https://meduza.io/feature/2022/03/01/pochemu-v-rossii-net-hotya-by-stotysyachnyh-mitingov-protiv-voyny
+
+## Запрет на выезд и реестр повесток (ловушка невыезда)
+- The Moscow Times — призывники массово получают запрет на выезд, 04.03.2026: https://ru.themoscowtimes.com/2026/03/04/prizivniki-nachali-massovo-poluchat-zapret-na-viezd-iz-rossii-za-neyavku-v-voenkomat-a188829
+- Meduza — «пакетные» ограничения через реестр: https://meduza.io/news/2026/03/03/v-rossii-nachali-nakladyvat-paketnye-ogranicheniya-na-prizyvnikov-cherez-reestr-povestok-eto-ne-tolko-zapret-na-vyezd-iz-strany
+- Коммерсантъ — запрет на выезд со дня размещения повестки в реестре: https://www.kommersant.ru/doc/6123761
+
+## Питер и облавы (relatable)
+- Фонтанка — облава в метро «Новочеркасская», 04.12.2024: https://www.fontanka.ru/2024/12/04/74839184/
+- «Гребут всех подряд» (okno.group / Север.Реалии): https://okno.group/2024/11/26/russia-prizuv/
+- Новая газета — «Метро 2025»: https://novayagazeta.ru/articles/2025/04/25/metro-2025

@@ -25,6 +25,16 @@
 - Kyiv Independent: https://kyivindependent.com/the-kremlin-students-and-war/
 - The Moscow Times: https://www.themoscowtimes.com/2026/03/23/are-you-all-cowards-russian-universities-pressure-students-to-fight-in-ukraine-a92307
 
+## Квоты и штрафы предприятиям (та же система, что и для вузов)
+- The Moscow Times (RU) — предприятия начали штрафовать за недобор (ЛЕПСЕ/Сельмаш/Маяк, Киров), 09.07.2026: https://ru.themoscowtimes.com/2026/07/09/rossiiskih-predprinimatelei-nachali-shtrafovat-za-nedobor-lyudei-v-mobilizatsionnii-rezerv-a200434
+- The Moscow Times (RU) — «дань» с бизнеса за право не отправлять работника, 13.07.2026: https://ru.themoscowtimes.com/2026/07/13/srossiiskogo-biznesa-nachali-sobirat-dan-zapravo-neotpravlyat-rabotnika-navoinu-a200587
+- The Moscow Times (EN) — квоты губернатора Рязанской области, 31.03.2026: https://www.themoscowtimes.com/2026/03/31/ryazan-governor-orders-businesses-to-set-military-recruitment-quotas-a92390
+- Радио Свобода — работодателей заставляют вербовать под угрозой штрафов: https://www.svoboda.org/a/rossiyskih-rabotodateley-zastavlyayut-verbovat-soldat-na-voynu-i-prinimat-v-shtat-veteranov-svo-/33607183.html
+
+## Двойное гражданство / второй паспорт
+- Т—Ж — мобилизация при двойном/втором гражданстве: https://t-j.ru/news/mobilization-for-foreigner/
+- РБК — Израиль предупредил граждан с российским паспортом о мобилизации: https://www.rbc.ru/rbcfreenews/63370a759a7947fc74ce5bd2
+
 ## Право: отсрочка, воинский учёт, реестр повесток
 - Указ Президента № 664 от 24.09.2022 (отсрочка от мобилизации): https://www.consultant.ru/document/cons_doc_LAW_427332/
 - ФЗ‑53 «О воинской обязанности», ст. 24 (отсрочка): https://www.consultant.ru/document/cons_doc_LAW_18260/fbe9593051ae34e2a8eb27f73b923ffee40296b7/

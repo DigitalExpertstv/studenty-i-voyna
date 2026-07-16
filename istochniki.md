@@ -94,3 +94,6 @@
 - Фонтанка — облава в метро «Новочеркасская», 04.12.2024: https://www.fontanka.ru/2024/12/04/74839184/
 - «Гребут всех подряд» (okno.group / Север.Реалии): https://okno.group/2024/11/26/russia-prizuv/
 - Новая газета — «Метро 2025»: https://novayagazeta.ru/articles/2025/04/25/metro-2025
+- Север.Реалии — «Гребут всех подряд» (на сборном пункте отбирают телефон/паспорт, не пускают к адвокату): https://www.severreal.org/a/grebut-vseh-podryad-v-rossii-idut-oblavy-na-prizyvnikov-/33215032.html
+- Meduza — «Сопротивляться произволу» (жалобы и суды игнорируют, ночью вывозят в часть): https://meduza.io/feature/2024/05/29/soprotivlyatsya-proizvolu-edinstvennoe-chto-ostaetsya
+- The Moscow Times — ФСБ завела дело на блогера Станислава Морозова, снимавшего облавы (огласка как мишень), 02.07.2026: https://ru.themoscowtimes.com/2026/07/02/fsb-zaderzhala-blogera-rasskazavshego-o-prinuditelnoi-mobilizatsii-v-penze-a199864

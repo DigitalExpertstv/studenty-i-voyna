@@ -91,6 +91,17 @@
 - [Euronews — вербовка студентов как «затыкание дыр» в армии](https://ru.euronews.com/2026/03/06/rossijskih-studentov-zovut-na-vojnu-eto-zatykanie-dyr-v-armii-govoryat-pravozashitniki)
 - [Радио Свобода — как руководители вузов отправляют студентов на войну](https://www.svoboda.org/a/kak-rukovoditeli-vuzov-i-uchilisch-otpravlyayut-studentov-na-voynu/33689445.html)
 
+## Государство: «образованных слишком много» + отсечение в школе
+- [The Moscow Times — Фальков: в России «слишком много высшего», 18.06.2026](https://ru.themoscowtimes.com/2026/06/18/eto-neest-horosho-vpravitelstve-zayavili-chto-vrossii-stalo-slishkom-mnogo-lyudei-svisshim-obrazovaniem-a198562)
+- [Собака.ru — Фальков о «тотальном высшем образовании»](https://www.sobaka.ru/city/science/216950)
+- [Эхо Севера — «Сильно умный? Не нужен»](https://www.echosevera.ru/2026/06/19/6a34fa1d02188aba9f05de67.html)
+- [Российская газета — текст ФЗ № 114-ФЗ от 23.05.2025 (предельное число платных мест)](https://rg.ru/documents/2025/05/30/fz-114.html)
+- [Кремль — об изменениях в закон об образовании (114-ФЗ)](http://www.kremlin.ru/acts/news/77005)
+- [Минобрнауки — правила определения предельного числа платных мест](https://minobrnauki.gov.ru/press-center/news/novosti-ministerstva/98466/)
+- [The Moscow Times — школам разрешили массово отказывать в приёме в 10-е классы, 14.07.2026](https://ru.themoscowtimes.com/2026/07/14/shkolam-razreshili-massovo-otkazivat-vprieme-uchaschihsya-v10-e-klassi-a200752)
+- [Российская газета — когда ученика могут не взять в 10-й класс, 14.07.2026](https://rg.ru/2026/07/14/minprosveshcheniia-obiasnilo-kogda-uchenika-mogut-ne-vziat-v-10-klass.html)
+- [Мел — почему детей отказываются зачислять в 10-е классы](https://mel.fm/ucheba/shkola/2150473-eto-narusheniye-zakona-pochemu-detey-snova-otkazyvayutsya-zachislyat-v-10-e-klassy-i-predlagayut-im-)
+
 ## Видео
 - [«Силой забрали студента в военкомат прямо из квартиры»](https://www.youtube.com/shorts/eOupagW70BI)
 - [Григорий Свердлин («Идите лесом») про облавы на мужчин](https://www.youtube.com/watch?v=Rvv2gIZHhIY)

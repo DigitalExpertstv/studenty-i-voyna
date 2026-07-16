@@ -31,6 +31,27 @@
 
 ---
 
+## Это не единичные случаи — это норма
+Если кажется, что «берут только громких активистов, а тихого не тронут» — [посмотри масштаб и механизм](istorii/eto-norma.md). Облавы идут **еженедельно**, через сборные пункты проходят десятки тысяч, и целенаправленно берут именно **тихих и незаметных** — потому что их проще увезти. А ложное чувство, что «всё нормально», тебе [создают специально](mehanizmy/08-illuziya-normalnosti.md).
+
+---
+
+## Подтверждения от экспертов и правозащитников
+Это не «мнение одного канала». Каждый тезис подтверждают независимые эксперты и организации:
+
+| Тезис | Кто подтверждает | Ссылка |
+|-------|------------------|--------|
+| Ты будешь один против громадной структуры; система перемалывает и «умных» | **Григорий Юдин**, социолог (Шанинка) | [Москвич Mag](https://moskvichmag.ru/lyudi/nikakuyu-iz-nyneshnih-vojn-nelzya-vyigrat-eto-vojna-navsegda-sotsiolog-grigorij-yudin/) · [Meduza](https://meduza.io/feature/2022/03/01/pochemu-v-rossii-net-hotya-by-stotysyachnyh-mitingov-protiv-voyny) |
+| Пропаганда — «усыпляющий шум», создаёт иллюзию нормальности и пассивность | **Екатерина Шульман**, политолог | [Настоящее время](https://www.currenttime.tv/a/ekaterina-shulman-voyna-ukraine-chetyre-goda-izmenila-rossiyan/33682731.html) · [Дискурс](https://discours.io/articles/social/schulmann-propaganda-resistance-guide) |
+| Облавы целенаправленно берут тех, кто не сопротивляется; их число растёт | **Григорий Свердлин**, «Идите лесом» | [Meduza](https://meduza.io/feature/2022/10/14/im-nuzhno-vypolnit-tsifry-prosche-za-schet-teh-kto-ne-soprotivlyaetsya) |
+| Призыв стал инструментом репрессий: облавы, нарушение процедур, игнор отсрочек | **ОВД-Инфо** | [data.ovd.info/prizyv](https://data.ovd.info/prizyv) |
+| В списки «уклонистов» вносят людей с отсрочками, военниками, инвалидностью, курсантов | **«Призыв к совести»**, военюрист **Артём Клыга** | [Новая газета](https://novayagazeta.ru/articles/2025/04/25/metro-2025) |
+| Студентов вербуют по квотам в 100–269 вузах по всей стране | **iStories**, **DOXA**, **T-invariant** | [iStories](https://istories.media/stories/2026/03/03/predlagaem-smenit-obstanovku-studentov-verbuyut-na-voinu-bolee-chem-v-100-uchebnikh-zavedeniyakh-po-vsei-rossii/) · [DOXA](https://doxa.team/news/2026-04-01-students-war) |
+| «Добровольная» модель сломалась — теряют быстрее, чем вербуют, → переходят к принуждению | **re-Russia**, **The Bell**, **ISW** | [re-Russia](https://re-russia.net/analytics/0427/) · [The Bell](https://thebell.io/nabor-kontraktnikov-vrossii-naminimume-zatri-goda-nezavisimyy-analiz) |
+| Мигрантов и задержанных принуждают контрактом вместо депортации/дела | **Мемориал** | [memorialcenter.org](https://memorialcenter.org/ru/news/kak-rossiya-verbuet-migrantov-iz-czentralnoj-azii) |
+
+---
+
 ## Истории №1: как студентов забирают (статус не спасает)
 > Твой город — первым.
 
@@ -61,6 +82,7 @@
 5. [Облавы и задержания](mehanizmy/05-oblavy-i-prinuzhdenie.md)
 6. [Второй паспорт не защищает](mehanizmy/06-dvoynoe-grazhdanstvo.md)
 7. [Квота — не бумажка](mehanizmy/07-kvoty-ne-bumazhka.md) — предприятия уже штрафуют за недобор
+8. [Иллюзия нормальности](mehanizmy/08-illuziya-normalnosti.md) — как тебе создают ложное чувство, что всё под контролем
 
 ## Ещё
 - [Масштаб / статистика](statistika.md) — сколько молодых уже погибло

@@ -73,6 +73,12 @@
 ## Эксперт: как система перемалывает даже «умных» (иллюзия «я не такой»)
 - Григорий Юдин (социолог) — «Война навсегда» (Москвич Mag): https://moskvichmag.ru/lyudi/nikakuyu-iz-nyneshnih-vojn-nelzya-vyigrat-eto-vojna-navsegda-sotsiolog-grigorij-yudin/
 - Григорий Юдин об атомизации (Meduza): https://meduza.io/feature/2022/03/01/pochemu-v-rossii-net-hotya-by-stotysyachnyh-mitingov-protiv-voyny
+- Екатерина Шульман — «Иллюзию нормальности поддерживать всё труднее» (Настоящее время): https://www.currenttime.tv/a/ekaterina-shulman-voyna-ukraine-chetyre-goda-izmenila-rossiyan/33682731.html
+- Екатерина Шульман — как распознать пропаганду (Дискурс): https://discours.io/articles/social/schulmann-propaganda-resistance-guide
+
+## Нормализация войны / пропаганда, усыпляющая бдительность
+- Новая газета Европа — «Прямая наружка на фронт» (реклама службы повсюду, 53 000 объявлений во ВК): https://novayagazeta.eu/articles/2023/04/18/priamaia-naruzhka-na-front
+- Российская пропаганда в системе образования («Разговоры о важном», НВП): https://ru.wikipedia.org/wiki/Российская_пропаганда_в_системе_образования
 
 ## Запрет на выезд и реестр повесток (ловушка невыезда)
 - The Moscow Times — призывники массово получают запрет на выезд, 04.03.2026: https://ru.themoscowtimes.com/2026/03/04/prizivniki-nachali-massovo-poluchat-zapret-na-viezd-iz-rossii-za-neyavku-v-voenkomat-a188829

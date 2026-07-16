@@ -119,3 +119,4 @@
 - Активатика — облавы в Москве, список станций метро: https://activatica.org/content/e6e9ebc2-cdc3-4bbb-be6f-bbe93eb4e5c1/v-moskve-idut-oblavy-na-prizyvnikov
 - Мемориал — коллективное обращение правозащитников об облавах в Москве (осень 2025, 60+ доставленных): https://memorialcenter.org/ru/news/oblavy-na-prizyvnikov-v-moskve
 - АиФ Петербург — призывников караулят у метро: https://spb.aif.ru/society/677878
+- Новая газета — «В военкомате были в бешенстве…» (истории задержанных на облавах, имена изменены), 10.06.2025: https://novayagazeta.ru/articles/2025/06/10/v-voenkomate-byli-v-beshenstve-chto-u-nikh-otbiraiut-patsienta

@@ -78,6 +78,11 @@
 - The Moscow Times — призывники массово получают запрет на выезд, 04.03.2026: https://ru.themoscowtimes.com/2026/03/04/prizivniki-nachali-massovo-poluchat-zapret-na-viezd-iz-rossii-za-neyavku-v-voenkomat-a188829
 - Meduza — «пакетные» ограничения через реестр: https://meduza.io/news/2026/03/03/v-rossii-nachali-nakladyvat-paketnye-ogranicheniya-na-prizyvnikov-cherez-reestr-povestok-eto-ne-tolko-zapret-na-vyezd-iz-strany
 - Коммерсантъ — запрет на выезд со дня размещения повестки в реестре: https://www.kommersant.ru/doc/6123761
+- **Питер, 3 отказа подряд** — Meduza, 27.04.2026: https://meduza.io/news/2026/04/27/prizyvniku-iz-peterburga-poluchivshemu-povestku-otkazali-v-vyezde-za-rubezh-cherez-belarus-eto-pervyy-izvestnyy-sluchay
+- Питерский кейс — Медиазона, 27.04.2026: https://zona.media/news/2026/04/27/povestki-belarus
+- Медиазона — «Минское окно» (аналитика прецедента): https://zona.media/article/2026/04/30/border
+- **Шереметьево, первый отказ по электронной повестке** — Радио Свобода: https://www.svoboda.org/a/vpervye-iz-rf-ne-vypuschen-muzhchina-poluchivshiy-elektronnuyu-povestku-/33528816.html
+- Шереметьево — Новая газета, 12.09.2025: https://novayagazeta.ru/articles/2025/09/12/rossiianina-vpervye-ne-vypustili-iz-strany-iz-za-elektronnoi-povestki-news
 
 ## Питер и облавы (relatable)
 - Фонтанка — облава в метро «Новочеркасская», 04.12.2024: https://www.fontanka.ru/2024/12/04/74839184/

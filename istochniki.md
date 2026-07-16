@@ -80,6 +80,21 @@
 - Радио Свобода — Би-би-си и «Медиазона» подтвердили гибель 225 000+ военных (потери засекречены, поимённый счёт — минимум): https://www.svoboda.org/a/bi-bi-si-i-mediazona-podtverdili-gibelj-boljshe-225-tysyach-voennyh/33773446.html
 - CSIS — максимальные оценки: ~1,4 млн потерь (убитые, раненые, пропавшие), до 450 000 убитых: https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war
 
+## Упадок высшего образования в РФ (учиться — плохая идея)
+- Коммерсантъ — Минобрнауки сократит ~45 тыс. платных мест: https://www.kommersant.ru/doc/8314534
+- РБК — сокращение платных мест в вузах: https://www.rbc.ru/society/22/12/2025/694907719a7947129eaf6bc8
+- DOXA — в 2026 сократят 13% платных мест: https://doxa.team/news/2025-12-23-students
+- Ведомости — ограничение числа платных мест (закон): https://www.vedomosti.ru/society/articles/2025/04/30/1107622-pravitelstvo-podderzhalo-zakonoproekt-po-ogranicheniyu-chisla-platnih-mest-v-vuzah
+- re-Russia — «Хроники разорения» (утечка учёных, деградация науки): https://re-russia.net/review/462/
+- Новая газета — Дмитрий Дубровский, «Разорванная академия»: https://novayagazeta.ru/articles/2024/11/07/razorvannaia-akademiia
+- Forbes — будущее российской науки, изоляция и утечка мозгов: https://www.forbes.ru/forbeslife/459339-izolacia-ot-mirovogo-soobsestva-i-utecka-mozgov-kakoe-budusee-zdet-rossijskuu-nauku
+- Euronews — вербовка студентов как «затыкание дыр» в армии: https://ru.euronews.com/2026/03/06/rossijskih-studentov-zovut-na-vojnu-eto-zatykanie-dyr-v-armii-govoryat-pravozashitniki
+- Радио Свобода — как руководители вузов отправляют студентов на войну: https://www.svoboda.org/a/kak-rukovoditeli-vuzov-i-uchilisch-otpravlyayut-studentov-na-voynu/33689445.html
+
+## Видео
+- «Силой забрали студента в военкомат прямо из квартиры»: https://www.youtube.com/shorts/eOupagW70BI
+- Григорий Свердлин («Идите лесом») про облавы на мужчин: https://www.youtube.com/watch?v=Rvv2gIZHhIY
+
 ## Нехватка людей и кризис набора (иллюзия «я им не нужен»)
 - The Bell — «Набор контрактников на минимуме за три года»: https://thebell.io/nabor-kontraktnikov-vrossii-naminimume-zatri-goda-nezavisimyy-analiz
 - iStories — «Российские потери растут, набор контрактников падает»: https://istories.media/stories/2026/02/26/rossiiskie-poteri-rastut-nabor-kontraktnikov-padaet-zhdat-li-mobilizatsii/

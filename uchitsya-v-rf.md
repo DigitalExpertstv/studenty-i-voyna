@@ -81,7 +81,7 @@
 - **14 июля 2026** Минпросвещения фактически подтвердило право школ **отказывать в приёме в 10-й класс** при «отсутствии мест».
   - [The Moscow Times, 14.07.2026](https://ru.themoscowtimes.com/2026/07/14/shkolam-razreshili-massovo-otkazivat-vprieme-uchaschihsya-v10-e-klassi-a200752) · [Российская газета, 14.07.2026](https://rg.ru/2026/07/14/minprosveshcheniia-obiasnilo-kogda-uchenika-mogut-ne-vziat-v-10-klass.html) · [Мел](https://mel.fm/ucheba/shkola/2150473-eto-narusheniye-zakona-pochemu-detey-snova-otkazyvayutsya-zachislyat-v-10-e-klassy-i-predlagayut-im-)
 
-**Видео — почему подросткам не дают доучиться и не пускают в 10-й класс** (Настоящее Время):
+**Видео — почему подросткам не дают доучиться и не пускают в 10-й класс:**
 
 [![Массовые жалобы российских подростков: почему им не дают окончить школу — Настоящее Время](https://i.ytimg.com/vi/T_i2BRRUN-I/hqdefault.jpg)](https://www.youtube.com/watch?v=T_i2BRRUN-I)
 

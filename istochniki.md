@@ -127,6 +127,7 @@
 - [«Массовые жалобы российских подростков: почему им не дают окончить школу» — Настоящее Время](https://www.youtube.com/watch?v=T_i2BRRUN-I)
 - [«Хватают на улице, в транспорте, у подъездов. Снова начались облавы на призывников» — Телеканал Дождь](https://www.youtube.com/watch?v=PTPXWMcugzs)
 - [«В военкомате пытали студента» — Ходорковский LIVE](https://www.youtube.com/watch?v=uflCJkpnquE)
+- [«Что, если не мобилизация?» — Екатерина Шульман (об ограничении доступа к образованию и «тихой» мобилизации)](https://www.youtube.com/watch?v=PBO77IjgVJo)
 
 ## Нехватка людей и кризис набора (иллюзия «я им не нужен»)
 - [The Bell — «Набор контрактников на минимуме за три года»](https://thebell.io/nabor-kontraktnikov-vrossii-naminimume-zatri-goda-nezavisimyy-analiz)
